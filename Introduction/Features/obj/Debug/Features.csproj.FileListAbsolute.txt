@@ -1,0 +1,6 @@
+E:\Education\How to develop\LINQ\Introduction\Features\bin\Debug\Features.exe.config
+E:\Education\How to develop\LINQ\Introduction\Features\bin\Debug\Features.exe
+E:\Education\How to develop\LINQ\Introduction\Features\bin\Debug\Features.pdb
+E:\Education\How to develop\LINQ\Introduction\Features\obj\Debug\Features.csprojResolveAssemblyReference.cache
+E:\Education\How to develop\LINQ\Introduction\Features\obj\Debug\Features.exe
+E:\Education\How to develop\LINQ\Introduction\Features\obj\Debug\Features.pdb

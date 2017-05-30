@@ -1,0 +1,6 @@
+E:\Education\How to develop\LINQ\Introduction\Introduction\bin\Debug\Introduction.exe.config
+E:\Education\How to develop\LINQ\Introduction\Introduction\bin\Debug\Introduction.exe
+E:\Education\How to develop\LINQ\Introduction\Introduction\bin\Debug\Introduction.pdb
+E:\Education\How to develop\LINQ\Introduction\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+E:\Education\How to develop\LINQ\Introduction\Introduction\obj\Debug\Introduction.exe
+E:\Education\How to develop\LINQ\Introduction\Introduction\obj\Debug\Introduction.pdb
