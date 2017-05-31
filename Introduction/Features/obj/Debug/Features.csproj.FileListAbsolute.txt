@@ -4,3 +4,9 @@ E:\Education\How to develop\LINQ\Introduction\Features\bin\Debug\Features.pdb
 E:\Education\How to develop\LINQ\Introduction\Features\obj\Debug\Features.csprojResolveAssemblyReference.cache
 E:\Education\How to develop\LINQ\Introduction\Features\obj\Debug\Features.exe
 E:\Education\How to develop\LINQ\Introduction\Features\obj\Debug\Features.pdb
+D:\My GitHub\LINQ-Fundamentals\Introduction\Features\bin\Debug\Features.exe.config
+D:\My GitHub\LINQ-Fundamentals\Introduction\Features\bin\Debug\Features.exe
+D:\My GitHub\LINQ-Fundamentals\Introduction\Features\bin\Debug\Features.pdb
+D:\My GitHub\LINQ-Fundamentals\Introduction\Features\obj\Debug\Features.csprojResolveAssemblyReference.cache
+D:\My GitHub\LINQ-Fundamentals\Introduction\Features\obj\Debug\Features.exe
+D:\My GitHub\LINQ-Fundamentals\Introduction\Features\obj\Debug\Features.pdb

@@ -4,3 +4,9 @@ E:\Education\How to develop\LINQ\Introduction\Introduction\bin\Debug\Introductio
 E:\Education\How to develop\LINQ\Introduction\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
 E:\Education\How to develop\LINQ\Introduction\Introduction\obj\Debug\Introduction.exe
 E:\Education\How to develop\LINQ\Introduction\Introduction\obj\Debug\Introduction.pdb
+D:\My GitHub\LINQ-Fundamentals\Introduction\Introduction\bin\Debug\Introduction.exe.config
+D:\My GitHub\LINQ-Fundamentals\Introduction\Introduction\bin\Debug\Introduction.exe
+D:\My GitHub\LINQ-Fundamentals\Introduction\Introduction\bin\Debug\Introduction.pdb
+D:\My GitHub\LINQ-Fundamentals\Introduction\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+D:\My GitHub\LINQ-Fundamentals\Introduction\Introduction\obj\Debug\Introduction.exe
+D:\My GitHub\LINQ-Fundamentals\Introduction\Introduction\obj\Debug\Introduction.pdb

@@ -1,0 +1,6 @@
+D:\My GitHub\LINQ-Fundamentals\Introduction\Queries\bin\Debug\Queries.exe.config
+D:\My GitHub\LINQ-Fundamentals\Introduction\Queries\bin\Debug\Queries.exe
+D:\My GitHub\LINQ-Fundamentals\Introduction\Queries\bin\Debug\Queries.pdb
+D:\My GitHub\LINQ-Fundamentals\Introduction\Queries\obj\Debug\Queries.exe
+D:\My GitHub\LINQ-Fundamentals\Introduction\Queries\obj\Debug\Queries.pdb
+D:\My GitHub\LINQ-Fundamentals\Introduction\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\fuel.csv
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\Cars.exe.config
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\Cars.exe
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\Cars.pdb
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\obj\Debug\Cars.exe
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\obj\Debug\Cars.pdb
