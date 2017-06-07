@@ -5,3 +5,8 @@ D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\Cars.pdb
 D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
 D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\obj\Debug\Cars.exe
 D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\obj\Debug\Cars.pdb
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\manufacturers.csv
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\EntityFramework.dll
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\EntityFramework.SqlServer.dll
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\EntityFramework.xml
+D:\My GitHub\LINQ-Fundamentals\Introduction\Cars\bin\Debug\EntityFramework.SqlServer.xml
